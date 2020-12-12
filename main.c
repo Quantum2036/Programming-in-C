@@ -1,5 +1,5 @@
 //Exercises: 8.10
-//Author£: Yuan Yao
+//Author: Yuan Yao
 //Completion date: 2020/12/12
 #include <stdio.h>
 #include <stdlib.h>
