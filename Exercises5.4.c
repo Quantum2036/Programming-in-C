@@ -35,11 +35,6 @@ int main()
 
 double F(double n, int t, double rate)
 {
-    int i = 1;
-    do {
-        n *= 1 + rate;
-        i++;
-    } while (i <= t);
-
+    n += n*t*rate
     return n;
 }
